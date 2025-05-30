@@ -1,7 +1,5 @@
 ### Hey, I’m Shirin 👋
-I learned to love learning. 📚
-
-🤖 These days, I’m diving into deep learning. 
+I learned to love learning. 📚 
 
 🎓 During my PhD, I explored how the brain learns and adapts movements through the experience of errors. A lot of that involved designing psychophysical experiments, building pipelines for behavioral and neuroimaging data analysis, computational modeling, and — essentially — writing code that worked (eventually)!
 
